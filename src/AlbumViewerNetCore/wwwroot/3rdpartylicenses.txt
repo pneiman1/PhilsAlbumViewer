@@ -95,30 +95,30 @@ toastr@2.1.2
 MIT
 MIT
 
-@angular/core@4.4.5
+@angular/core@4.4.6
 MIT
 MIT
 
-@angular/router@4.4.5
+@angular/router@4.4.6
 MIT
 MIT
 
-@angular/http@4.4.5
+@angular/http@4.4.6
 MIT
 MIT
 
-@angular/animations@4.4.5
+@angular/animations@4.4.6
 MIT
 MIT
 
-@angular/common@4.4.5
+@angular/common@4.4.6
 MIT
 MIT
 
-@angular/forms@4.4.5
+@angular/forms@4.4.6
 MIT
 MIT
 
-@angular/platform-browser@4.4.5
+@angular/platform-browser@4.4.6
 MIT
 MIT
